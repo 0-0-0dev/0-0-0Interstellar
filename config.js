@@ -5,6 +5,7 @@ const config = {
     tyler: "2112",
     arbin: "5046",
     alex: "hotdog67",
+    hunter: "2034",
   },
 };
 
