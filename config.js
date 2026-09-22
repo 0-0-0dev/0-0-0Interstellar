@@ -7,6 +7,7 @@ const config = {
     alex: "hotdog67",
     hunter: "2034",
     marwan: "bicycle26",
+    ryder7667: "messislefttesticle"
   },
 };
 
